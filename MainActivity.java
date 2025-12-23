@@ -56,4 +56,3 @@ public class MainActivity extends AppCompatActivity {
         handler.post(runnable);
     }
 }
-إضافة الكود الأساسي للتطبيق
